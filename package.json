@@ -1,5 +1,5 @@
 {
-  "name": "sass-library",
+  "name": "complete-sass-tutorial",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crypt096/sass-library.git"
+    "url": "git+https://github.com/iamshaunjp/complete-sass-tutorial.git"
   },
-  "author": "crypt0",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crypt096/sass-library/issues"
+    "url": "https://github.com/iamshaunjp/complete-sass-tutorial/issues"
   },
-  "homepage": "https://github.com/crypt096/sass-library#readme",
+  "homepage": "https://github.com/iamshaunjp/complete-sass-tutorial#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^5.0.0",
-    "sass": "^1.39.0"
+    "sass": "^1.35.2"
   }
 }
